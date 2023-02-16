@@ -25,11 +25,7 @@
 
 1. Deploy to EKS Cluster & 2. Gateway Service Router
 
-![image](https://user-images.githubusercontent.com/109713893/219248611-067d4b1b-1e5f-475e-8243-8212fcb21c9f.png)
- 
- 
- gateway를 통해 주문 성공하는 화면
-![1 deploy_cheeck](https://user-images.githubusercontent.com/16378278/218912729-4254145c-3d11-4b11-bbb0-6e276b3f9c2f.PNG)
+![image](https://user-images.githubusercontent.com/109713893/219250952-3717ea3b-0856-4ba4-ada4-a1fbde424e91.png)
 
 
 3.
