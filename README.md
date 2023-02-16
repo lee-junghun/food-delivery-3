@@ -30,19 +30,11 @@
 
 3.
 Autoscale (HPA)
- autoscaling command 입력 및 변경된 내용
-![3 autoscaling](https://user-images.githubusercontent.com/16378278/218912740-2ad31080-4dd2-4ca1-a7e8-2361331b3d22.PNG)
+- autoscal 설정
+![image](https://user-images.githubusercontent.com/109713893/219271057-c9586cbf-5cf6-4d4d-9c7e-47fe9834bc3e.png)
 
- 현재 하나의 front pod 확인
-![3 pod](https://user-images.githubusercontent.com/16378278/218912749-0645c8ad-8be9-4206-a36b-4fbf9a1a144f.PNG)
+- siege 이용 부하 생성
+![image](https://user-images.githubusercontent.com/109713893/219271160-8e53ef8f-5e66-4d4b-952d-a239e7a517f7.png)
 
- siege 사용 전
-![3 hpa](https://user-images.githubusercontent.com/16378278/218912745-2b14120d-cefe-40ec-8ec6-2901b932b108.PNG)
-
- siege 사용 후
-![3 hpa_2](https://user-images.githubusercontent.com/16378278/218912748-3f19e7a4-597b-40db-bec0-52690b6f75dd.PNG)
-
- pod 갯수 증가 
-![3 auto](https://user-images.githubusercontent.com/16378278/218912738-f43497e7-746e-4163-8516-7abe41a0b8df.PNG)
-
-
+- 결과 
+![image](https://user-images.githubusercontent.com/109713893/219270941-5e9e0913-784e-43e3-b222-58ef272f7aca.png)
